@@ -1,1 +1,1 @@
-<?php define("DB_NAME", "phppamokos");
+<?php define("DB_NAME", "phppamokos2015");
