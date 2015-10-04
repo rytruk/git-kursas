@@ -1,0 +1,3 @@
+<?php function connect() {
+	// To be coded later...
+}
